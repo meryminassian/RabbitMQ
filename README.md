@@ -1,2 +1,2 @@
 # RabbitMQ
-Creating a Channel and asserting a queue;
+Creating a Channel and asserting a queue.
